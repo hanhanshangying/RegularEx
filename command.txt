@@ -1,0 +1,2 @@
+-Lex ..\..\..\..\thth\lexicon -Regex ..\..\..\config\thth_regex.txt -format ..\..\..\config\thth_converttts.txt -replace ..\..\..\config\thth_replacecharactors.txt -output ..\..\..\lexiconthth.xml
+-Lex ..\..\..\..\elgr\lexicon -Regex ..\..\..\config\elgr_regex.txt -format ..\..\..\config\elgr_converttts.txt -replace ..\..\..\config\elgr_replacecharactors.txt -output ..\..\..\lexiconelgr.xml
